@@ -338,4 +338,12 @@ border-radius: 0px;
     color:#5F6062;
     font-weight: bold;
     text-decoration: underline;
-   }
+    }
+
+  #audioC {
+    width: 1000px;
+    padding: auto;
+    margin: auto;
+    position: relative;
+
+  }
